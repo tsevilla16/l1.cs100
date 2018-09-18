@@ -1,0 +1,61 @@
+.title {
+    text-align: center;
+    font-family: Futura;
+    font-weight: 300;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    cursor: pointer;
+}
+
+h2 {
+  font-family: Futura;
+  font-weight: 300;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+#galleries{
+  text-align: center;
+  font-family: Futura;
+  font-weight: lighter;
+  text-decoration-color: black;
+}
+
+#objectlist{
+  font-family: Futura;
+  font-weight: lighter;
+  text-decoration-color: black;
+}
+
+#objectinfo{
+  font-family: Futura;
+  font-weight: lighter;
+  text-decoration-color: black;
+}
+
+#objecttitle{
+  font-family: Futura;
+  font-size: 20px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 0.5px solid gray;
+}
+
+th, td {
+    padding: 5px;
+}
+
+.gallery-image {
+    width: 80px;
+}
